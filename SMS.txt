@@ -1,0 +1,77 @@
+School Management System (SMS)
+Project Overview
+The School Management System (SMS) is a Software as a Service (SaaS) platform designed for schools across Africa, starting with Ghana.
+It handles academic, administrative, financial, and communication needs, while integrating Artificial Intelligence (AI) for:
+•	Student performance analysis
+•	Personalized learning recommendations
+•	Career guidance suggestions
+•	Gamified learning content
+________________________________________
+
+Area	Stack
+Frontend	React.js + TypeScript + Tailwind CSS
+Backend	Node.js + Express.js
+Database	Firebase Firestore (NoSQL), Firebase Realtime DB for sync
+Authentication	Firebase Auth (email/password, phone, Google)
+Cloud Functions	Firebase Functions (for scheduled tasks, SMS, etc.)
+Offline Support	PWA (Progressive Web App) support in React
+Messaging/SMS	Africa’s Talking API
+AI/Automation	OpenAI API for student performance analysis, personalized recommendations
+(use best stack)
+Hosting	supabase
+
+
+2. User Roles & Permissions
+User Role	Responsibilities/Access
+Headmaster/Principal	School oversight, reports, analytics, approvals, communication
+Admin	System settings, user accounts, scheduling, internal communication
+Accountant	Fee tracking, financial reports, budgeting, payroll
+HR	Staff records, attendance, recruitment, appraisals
+Teacher	Class assignments, grading, attendance, lesson materials, student progress
+Student	Assignments, study resources, AI support, academic tracking
+Parent/Guardian	View child's progress, receive alerts, pay fees, communicate with staff
+Supervisor/Inspector	Monitor school performance, reports, audit logs, inspections
+Librarian	Manage book inventory, lend/return tracking, overdue notices
+Lab Assistant	Oversee lab sessions, inventory, safety logs
+Canteen Manager	Menu management, transactions, student food accounts
+IT Support	Technical issue resolution, system maintenance
+Counselor	Student guidance, counseling logs, follow-ups
+________________________________________
+
+Role-Based Dashboards
+________________________________________
+🧑‍🎓 1. Student Dashboard
+________________________________________
+👨‍👩‍👧‍👦 2. Parent/Guardian Dashboard
+
+👨‍🏫 3. Teacher Dashboard
+🔹 
+________________________________________
+🧑‍💼 4. Headmaster / Principal Dashboard
+🔹 
+________________________________________
+👨‍💻 5. Admin (System Administrator)
+🔹 K
+________________________________________
+🧑‍💰 6. Accountant / Bursar Dashboard
+🔹 
+________________________________________
+👩‍⚕️ 7. HR Manager Dashboard
+🔹
+________________________________________
+📊 8. Supervisor / Inspector Dashboard
+🔹
+________________________________________
+📚 9. Librarian Dashboard
+🔹 
+________________________________________
+🧪 10. Lab Assistant Dashboard
+🔹
+________________________________________
+🍛 11. Canteen Manager Dashboard
+🔹
+________________________________________
+🖥️ 12. IT Support Dashboard
+🔹 
+________________________________________
+🧠 13. Counselor Dashboard
