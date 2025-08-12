@@ -69,7 +69,7 @@ npm install
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. Open to view it in the browser.
 
 ### Demo Accounts
 
@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or support, please contact the development team.
+For questions or support, please contact emrys775@gmail.com.
 
 ---
 
